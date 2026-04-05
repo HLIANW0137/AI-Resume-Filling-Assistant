@@ -21,7 +21,7 @@
 1. **安装脚本管理器**：
    - 推荐在浏览器中安装 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 插件。
 2. **安装本脚本**：
-   - [点击此处直接安装：[👉 点击安装 AI 智能简历助手](https://github.com/你的用户名/你的仓库名/raw/main/ai-resume-assistant.user.js)](https://raw.githubusercontent.com/HLIANW0137/ai-resume-assistant/main/ai-resume-assistant.user.js)
+   -  点击此处直接安装：[👉 点击安装 AI 智能简历助手](https://raw.githubusercontent.com/HLIANW0137/ai-resume-assistant/main/ai-resume-assistant.user.js)
    - *(注意：请将上述链接替换为你自己仓库的 Raw 链接)*
 
 ---
