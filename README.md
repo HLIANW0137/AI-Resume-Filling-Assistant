@@ -29,6 +29,7 @@
 ## ⚙️ 初始配置 (首次使用必看)
 
 脚本默认使用 [NVIDIA NIM API](https://build.nvidia.com/) (Meta llama-3.3-70b-instruct模型) 进行推理。**你需要配置自己的 API Key 才能使用。**
+<img width="517" height="290" alt="image" src="https://github.com/user-attachments/assets/7534f918-edaf-4bd4-bd1b-c5b31f5d3062" />
 
 1. 随便打开一个网页，页面右上角会出现一个 `🤖` 悬浮球，点击展开面板。
 2. 点击面板标题栏右侧的 **⚙️ (设置图标)**。
@@ -37,7 +38,7 @@
    - **Model**: 默认为 `meta/llama-3.3-70b-instruct`（对应你使用的模型名称）。
    - **API Key**: 填入你申请到的对应平台的 API 令牌（如 `sk-xxxxxx`）。
 4. 点击 **“保存配置”**，设置会自动隐藏。
-5. <img width="517" height="290" alt="image" src="https://github.com/user-attachments/assets/7534f918-edaf-4bd4-bd1b-c5b31f5d3062" />
+
 
 
 ---
