@@ -37,6 +37,8 @@
    - **Model**: 默认为 `meta/llama-3.3-70b-instruct`（对应你使用的模型名称）。
    - **API Key**: 填入你申请到的对应平台的 API 令牌（如 `sk-xxxxxx`）。
 4. 点击 **“保存配置”**，设置会自动隐藏。
+5. <img width="517" height="290" alt="image" src="https://github.com/user-attachments/assets/7534f918-edaf-4bd4-bd1b-c5b31f5d3062" />
+
 
 ---
 
