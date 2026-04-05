@@ -33,8 +33,8 @@
 1. 随便打开一个网页，页面右上角会出现一个 `🤖` 悬浮球，点击展开面板。
 2. 点击面板标题栏右侧的 **⚙️ (设置图标)**。
 3. 填入你的 API 配置：
-   - **API URL**: 默认为 `https://integrate.api.nvidia.com/v1/chat/completions`（如果你用 OpenAI 或其他中转 API，请修改此处）。
-   - **Model**: 默认为 `meta/llama-3.1-8b-instruct`（对应你使用的模型名称）。
+   - **API URL**: 默认为 `https://integrate.api.nvidia.com/v1`（如果你用 OpenAI 或其他中转 API，请修改此处）。
+   - **Model**: 默认为 `meta/llama-3.3-70b-instruct`（对应你使用的模型名称）。
    - **API Key**: 填入你申请到的对应平台的 API 令牌（如 `sk-xxxxxx`）。
 4. 点击 **“保存配置”**，设置会自动隐藏。
 
