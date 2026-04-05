@@ -28,7 +28,7 @@
 
 ## ⚙️ 初始配置 (首次使用必看)
 
-脚本默认使用 [NVIDIA NIM API](https://build.nvidia.com/) (Meta Llama 3.1 8B 模型) 进行推理。**你需要配置自己的 API Key 才能使用。**
+脚本默认使用 [NVIDIA NIM API](https://build.nvidia.com/) (Meta llama-3.3-70b-instruct模型) 进行推理。**你需要配置自己的 API Key 才能使用。**
 
 1. 随便打开一个网页，页面右上角会出现一个 `🤖` 悬浮球，点击展开面板。
 2. 点击面板标题栏右侧的 **⚙️ (设置图标)**。
